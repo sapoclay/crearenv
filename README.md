@@ -39,7 +39,7 @@ Opciones
     -i <paquete>: Instala un paquete en un entorno virtual existente.
     -l: Lista los paquetes instalados en un entorno virtual.
 
-[Note!] ## Ejemplo de uso
+## Ejemplo de uso
 
 Crear un nuevo entorno virtual:
 
