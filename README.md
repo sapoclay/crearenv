@@ -25,6 +25,8 @@ chmod +x nombre_del_script.sh
 ```
 Ahora ya puede ejecutar lo siguiente: 
 
+![crearenv](https://github.com/user-attachments/assets/1fc7c56f-217c-4b10-ae1b-bd20df023666)
+
 ```
 ./crearvenv.sh [opciones]
 ```
